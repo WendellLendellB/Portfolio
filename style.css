@@ -205,4 +205,5 @@ h3 {
     background-color: var(--surface-color-hover);
     border: 1.5px solid var(--text-color);
     border-radius: 10px;
+    transition: 0.5s;
 }
